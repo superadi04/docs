@@ -3,9 +3,13 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#9146FF",
+    "light": "#9146FF",
+    "dark": "#2E3135",
+    "background": {
+      "light": "#FFFFFF",
+      "dark": "#141517"
+    }
   },
   "favicon": "/favicon.svg",
   "navigation": {
